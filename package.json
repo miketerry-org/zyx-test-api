@@ -1,0 +1,28 @@
+{
+  "name": "zyx-test-api",
+  "version": "0.20.0",
+  "description": "Testing of Rest API servers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/zyx-test.git"
+  },
+  "keywords": [
+    "zyx",
+    "rest",
+    "api",
+    "testing",
+    "test"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/zyx-test/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/zyx-test#readme"
+}

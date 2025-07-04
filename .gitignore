@@ -1,0 +1,14 @@
+.ds_store
+.env
+.git
+node_modules
+package-lock.json
+*.env
+*.key
+_tenants/*.env
+node_modules/
+package-lock.json
+mvc-starter/
+tworoads
+tworoads/
+x-trash/
