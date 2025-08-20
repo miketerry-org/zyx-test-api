@@ -1,6 +1,6 @@
 {
   "name": "zyx-test-api",
-  "version": "0.20.6",
+  "version": "0.20.7",
   "description": "Testing of Rest API servers",
   "main": "index.js",
   "scripts": {
